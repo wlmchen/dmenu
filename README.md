@@ -19,3 +19,4 @@ https://aur.archlinux.org/packages/dmenu-pryme-svg
 - [-h height]
 - [-l lines]
 
+# Please install [libxft-bgra](https://aur.archlinux.org/packages/libxft-bgra/) to view color emojis
